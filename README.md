@@ -16,16 +16,20 @@
 
 **Logs: 
 root@mlops:~#ssh -T git@github.com
+
 Hi nagar-3! You've successfully authenticated, but GitHub does not provide shell access.
+
 root@mlops:~#
 
 root@mlops:~#git clone https://github.com/nagar-3/MLOPS.git
+
 Cloning into 'MLOPS'...
 remote: Enumerating objects: 9, done.
 remote: Counting objects: 100% (9/9), done.
 remote: Compressing objects: 100% (5/5), done.
 remote: Total 9 (delta 1), reused 3 (delta 0), pack-reused 0
 Unpacking objects: 100% (9/9), done.
+
 root@mlops:~#
 root@mlops:~# cd MLOPS/
 
